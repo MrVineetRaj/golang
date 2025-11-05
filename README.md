@@ -1,0 +1,3 @@
+- main function is entry point
+- go build <path to main file>
+- go run <path to main file>
